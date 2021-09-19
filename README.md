@@ -1,3 +1,3 @@
 # YoutubeDownloader
 
-## python ytdown.py <youtube video link>
+### python ytdown.py <*youtube link>
